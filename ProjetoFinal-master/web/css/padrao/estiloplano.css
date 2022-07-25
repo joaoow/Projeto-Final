@@ -1,0 +1,56 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/04/2022, 09:11:15
+    Author     : sala305b
+*/
+
+body{
+    font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+color: white;
+}
+a.nav-link{
+    margin-right:190px;
+   
+}
+.navbar-brand{
+    margin-right: 105px;
+    padding-right:  80px;
+    padding-left:  130px;
+
+}
+h3{
+      color: black;
+      text-align: center;
+      font-size: 32px;
+}
+
+h2 {
+  font-size: 40px;
+  text-align: center;
+  text-align: justify;
+    color: black;
+/*    font-family: "time new romam";*/
+}
+
+p{
+    color: black;
+    font-size: 20px;
+/*    font-family: "time new romam";*/
+    text-align: center; 
+}
+.btn{
+    margin-left: 100px; 
+      z-index: 10;
+      text-align: center;
+}

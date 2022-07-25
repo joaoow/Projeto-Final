@@ -1,0 +1,123 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+
+ 
+    Created on : 05/04/2022, 11:05:43
+    Author     : sala306b
+*/
+
+
+
+.container{
+    height: 100%;
+    align-content: center;
+}
+
+
+.social_icon span{
+    font-size: 60px;
+    margin-left: 10px;
+    color: #FFC312;
+}
+
+.social_icon span:hover{
+    color: white;
+    cursor: pointer;
+}
+
+.card-header h3{
+    color: white;
+}
+
+.social_icon{
+    position: absolute;
+    right: 20px;
+    top: -45px;
+}
+
+.input-group-prepend span{
+    width: 50px;
+    background-color: #FFC312;
+    color: black;
+    border:0 !important;
+}
+
+input:focus{
+    outline: 0 0 0 0  !important;
+    box-shadow: 0 0 0 0 !important;
+
+}
+
+.remember{
+    color: white;
+}
+
+.remember input
+{
+    width: 20px;
+    height: 20px;
+    margin-left: 15px;
+    margin-right: 5px;
+}
+
+.login_btn{
+    color: black;
+    background-color: #FFC312;
+    width: 100px;
+}
+
+.login_btn:hover{
+    color: black;
+    background-color: white;
+}
+
+.links{
+    color: white;
+}
+
+.links a{
+    margin-left: 4px;
+}
+
+h11 {
+    color:red;
+}
+
+#logo {
+    width:50%;
+    height:50%;
+}
+
+.panel-heading{
+    font-size:150%;
+}
+body{
+    font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+    color:black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a.nav-link{
+    margin-right:100px;
+
+}
+.navbar-brand{
+    margin-right: 105px;
+    padding-right:  80px;
+    padding-left:  130px;
+
+}
+.img{
+    padding-right: 10px;
+
+}
+
+.btn{
+    margin-left: 100px; 
+      z-index: 10;
+      text-align: center;
+}

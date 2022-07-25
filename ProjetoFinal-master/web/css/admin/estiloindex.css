@@ -1,0 +1,121 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/04/2022, 09:11:15
+    Author     : sala305b
+*/
+
+body{
+    font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+    color:white;
+    
+}
+a{
+    text-decoration: none;
+    color: white;
+    
+}
+a:hover{
+color: white;
+}
+a.nav-link{
+    margin-right:190px;
+    
+   
+}
+.navbar-brand{
+    margin-right: 105px;
+    padding-right:  80px;
+    padding-left:  130px;
+
+}
+.img{
+    padding-right: 10px;
+
+
+}
+.imgfundo img{
+    position: absolute;
+    width: 100%;
+    height:84%; 
+    display: block;
+    z-index: 0; 
+}
+img.C{
+    position: absolute;
+    margin-left: 1150px;
+    opacity: 90%; 
+    margin-top: 170px;
+    width: 300px;
+    display: block;
+    z-index: 0;
+}
+img.D{
+    position: absolute;
+    opacity: 70%; 
+    width: 450px;
+    margin-top: 155px;
+    margin-left:  1390px;
+    display: block;
+    z-index: 0;
+
+}
+img.E{
+    position: absolute;
+    width:100%;
+    margin-top: 0px;    
+    display: block;
+    z-index: 0;
+
+}
+
+.texto {
+    position: absolute;
+    font-weight: bold;
+    color:#333;
+    text-align: center;
+/*    font-family: "time new romam";*/
+    font-size: 23px;
+    margin-top: 280px;
+    margin-left:  1430px;
+    line-height: 30px;
+    width:300px;
+    word-wrap: break-word;
+}
+.h2P {
+    margin-top:760px; 
+    color: white;
+/*    font-family: "time new romam";*/
+}
+.table{
+    background-color:	#808080; 
+}
+.h2In{
+    color: white; 
+/*    font-family: "time new romam";*/
+}
+.p{
+    color: white; 
+/*    font-family: "time new romam";*/
+    text-align: center; 
+}
+.btn{
+    margin-left: 100px; 
+      z-index: 10;
+      text-align: center;
+}
+/*Estilo Caixa de Opções */
+.lado{
+    margin-left: 100px;
+}
+.lado a{
+   text-align: center;
+}
+.cor{
+    
+    background-color:red;
+    color: white;
+}

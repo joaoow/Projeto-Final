@@ -1,0 +1,100 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/04/2022, 09:13:25
+    Author     : sala305b
+*/
+
+
+.imgfundo img{
+    position: absolute;
+    width: 100%;
+    height: 750px;
+    display: block;
+    z-index: 0;
+}
+a.nav-link{
+    margin-right:190px;
+
+}
+.navbar-brand{
+    margin-right: 105px;
+    padding-right:  80px;
+    padding-left:  130px;
+
+}
+.form-style input{
+    border:0;
+    height:50px;
+    border-radius:0;
+    border-bottom:1px solid #ebebeb;	
+}
+.form-style input:focus{
+    border-bottom:1px solid #007bff;	
+    box-shadow:none;
+    outline:0;
+    background-color:#ebebeb;	
+}
+.sideline {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color:#ccc;
+}
+button{
+    height:50px;	
+}
+.sideline:before,
+.sideline:after {
+    content: '';
+    border-top: 1px solid #ebebeb;
+    margin: 0 20px 0 0;
+    flex: 1 0 20px;
+}
+
+.sideline:after {
+    margin: 0 0 0 20px;
+}
+.pb-3{
+    color: white;
+}
+.pt-3{
+    color: white;
+}
+body{
+    font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+    color:black;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.img{
+    padding-right: 10px;
+
+
+}
+footer{
+    width: 100%;
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 0;
+
+
+}
+.container{
+    margin-top: px;
+}
+#btn{
+    margin-left: 100px; 
+   
+}
+
+

@@ -1,0 +1,132 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 19/04/2022, 20:49:32
+    Author     : eduee
+*/
+body{
+    font-family: Trebuchet MS, Verdana, Arial, Helvetica, sans-serif;
+
+    background-color:#363636;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a.nav-link{
+    margin-right:100px;
+   
+}
+.navbar-brand{
+    margin-right: 105px;
+    padding-right:  80px;
+    padding-left:  130px;
+
+}
+.img{
+    padding-right: 10px;
+
+
+}
+.imgfundo{
+    position: absolute;
+    width: 100%;
+    display: block;
+    z-index: 0;
+}
+img.C{
+    position: absolute;
+    margin-left: 690px;
+    opacity: 80%; 
+    margin-top: 120px;
+    width: 300px;
+    display: block;
+    z-index: 0;
+}
+img.D{
+    position: absolute;
+    opacity: 70%; 
+    width: 450px;
+    margin-top: 100px;
+    margin-left:  918px;
+    display: block;
+    z-index: 0;
+
+}
+img.E{
+    position: absolute;
+    width: 100%;
+    display: block;
+    z-index: 0;
+
+}
+
+.texto {
+    position: absolute;
+    font-weight: bold;
+    color:#333;
+    text-align: center;
+/*    font-family: "time new romam";*/
+    font-size: 23px;
+    margin-top: 228px;
+    margin-left:  935px;
+    line-height: 30px;
+    width:350px;
+    word-wrap: break-word;
+}
+h2.fc {
+    margin-top:100px; 
+    color: white;
+/*    font-family: "time new romam";*/
+}
+.table{
+    background-color:	#808080; 
+}
+.h2In{
+    color: white; 
+/*    font-family: "time new romam";*/
+}
+.p{
+    color: white; 
+/*    font-family: "time new romam";*/
+
+    word-wrap: break-word;
+    width:540px;
+    text-align: center; 
+    padding-left:  120px;
+}
+
+
+.icones{
+    font-size:20px;
+    margin-right: 10px;
+}
+.icone2{
+    font-size:20px;
+    margin-right: 10px;
+}
+.icone3{
+    font-size:20px;
+    margin-right: 10px;
+}
+.sr-only{
+    font-size:20px;
+    width:50px;
+    margin-right: 10px;
+
+}
+.icone6{
+    width:50px;
+    height:80px;
+    margin-right: 10px;
+
+}
+.btn{
+    margin-left: 100px; 
+      z-index: 10;
+      text-align: center;
+}
